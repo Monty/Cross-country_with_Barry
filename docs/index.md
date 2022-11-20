@@ -1,5 +1,21 @@
+## Road warrior
+
+When we graduated from high school, four of us celebrated by taking
+a 21-day trip across the US.
+
+My friend Barry Connor organized the trip. He drove the entire trip,
+sometimes covering over 700 miles in a single day. We took his red
+1961 Ford Starliner with a 390 cubic inch big block V-8 that he
+sometimes raced at Tampa Dragway.
+
+Our trip was written up in the local newspaper after we returned. I
+scanned the article and converted it into a text file since the
+scanned image was difficult to read.
+
+## On the road
+
 ![](images/Newspaper_Heading.jpg)
-**By EARL WELLS  
+**By EARL WELLS<br>
 Tribune Staff Writer**
 
 **LAKELAND**----Four adventuresome Lakeland youths returned this week
@@ -120,7 +136,7 @@ two of them.
 Bonneville salt flats.  The boys were fortunate to see the record
 setting "Spirit of America" just a few days after the mark fell.**
 
-Southern Idaho brought the first and only auto difficulty.  It cost
+Southern Idaho brought the first and only auto difficulty. It cost
 $6.50 for a fuel filter and they were on their way to Yellowstone
 National Park, witnessing Old Faithful in her regal splendor.
 
@@ -139,9 +155,10 @@ entire trip, munching hamburgers one day and relishing steak the
 next.
 
 ## Photos
-Barry's 1961 Ford Skyliner  
-![](images/Skyliner.jpg)  
+
+**Barry's 1961 Ford Skyliner**<br>
+![](images/Skyliner.jpg)<br>
 ![](images/Dashboard.jpg)
 
-Grand Canyon  
+**Grand Canyon**<br>
 ![](images/GrandCanyon.jpg)
