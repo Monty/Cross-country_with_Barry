@@ -162,6 +162,7 @@ next.
 
 **Carlsbad**<br>
 ![](images/Carlsbad-Barry.jpg)
+![](images/Carlsbad-Terry.jpg)
 
 **Grand Canyon**<br>
 ![](images/GrandCanyon.jpg)
