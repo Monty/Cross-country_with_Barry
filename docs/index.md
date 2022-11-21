@@ -1,4 +1,4 @@
-## Road warrior
+## Cross-country with Barry
 
 When we graduated from high school, four of us celebrated by taking
 a 21-day trip across the US.
