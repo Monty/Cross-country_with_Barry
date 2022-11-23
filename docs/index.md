@@ -156,25 +156,32 @@ next.
 
 ## Photos
 
-**Barry's 1961 Ford Skyliner**<br>
+### Barry's 1961 Ford Skyliner
+
 ![](images/Skyliner.jpg)<br>
 ![](images/Dashboard.jpg)
 
-**Carlsbad**<br>
+### Carlsbad
+
 ![](images/Carlsbad-Barry.jpg)
 ![](images/Carlsbad-Terry.jpg)
 
-**Petrified Forest**<br>
+### Petrified Forest
+
 ![](images/Petrified_Forest.jpg)
 
-**After a long day**<br>
+### After a long day
+
 ![](images/Sleeping.jpg)
 
-**Grand Canyon**<br>
+### Grand Canyon
+
 ![](images/GrandCanyon.jpg)
 
-**Disneyland**<br>
+### Disneyland
+
 ![](images/Disneyland.jpg)
 
-**Snow**<br>
+### Snow
+
 ![](images/Snow.jpg)
