@@ -164,6 +164,9 @@ next.
 ![](images/Carlsbad-Barry.jpg)
 ![](images/Carlsbad-Terry.jpg)
 
+**Petrified Forest**<br>
+![](images/Petrified_Forest.jpg)
+
 **Grand Canyon**<br>
 ![](images/GrandCanyon.jpg)
 
