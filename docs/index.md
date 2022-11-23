@@ -167,6 +167,9 @@ next.
 **Petrified Forest**<br>
 ![](images/Petrified_Forest.jpg)
 
+**After a long day**<br>
+![](images/Sleeping.jpg)
+
 **Grand Canyon**<br>
 ![](images/GrandCanyon.jpg)
 
